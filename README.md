@@ -1,5 +1,16 @@
 # Student-performance-Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis(EDA)](#exploratory-data-analysis-eda)
+- [EDA Findings](#eda-findings)
+- [Recommendations](#recommendations)
+- [Next steps](#next-steps)
+
 ## Project Overview 
 
 This data analysis project aims to provide insights into the students performance of a private learning provider. By analyzing various aspects of the students data, we seek to identify trends , make data-driven recommendations and gain a deeper understanding of the students' performance.
@@ -13,7 +24,7 @@ Python (Data Analysis)
 - Pandas - Data cleaning
 - Matplotlib and seaborn - Visualization
 
-### Data cleaning / Preparation
+### Data Preparation
 In the initial data preparation phase , the following tasks were performed :
 Importing necessary libraries
 Data loading and Inspection 
